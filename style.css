@@ -1,7 +1,7 @@
 header {
     background:#ebebeb;
     padding: 40px;
-    color: white;
+    color: grey;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -16,13 +16,14 @@ body {
 nav {
     background: #ebebeb;
     padding: 40px;
-    color: white;
+    color: grey;
     margin-bottom: 20px;
     text-align: center;
 }
 
 div {
     float: left;
+    color: grey;
     height: 250px;
     background: #ebebeb;
     margin-bottom: 20px;
@@ -33,6 +34,7 @@ div {
 
 aside {
     text-align: center;
+    color: grey;
     float: right;
     height: 250px;
     background: #ebebeb;
@@ -40,9 +42,9 @@ aside {
     border: 1px solid black;
 }
 
-article {
-    background: black;
-    color: white;
+#article {
+    background-color: black;
+    color: grey;
     padding: 20px;
     margin: 20px;
 }
@@ -64,6 +66,7 @@ article {
 
 footer {
     text-align: center;
+    color: grey;
     clear: both;
     padding: 40px;
     background-color: #ebebeb;
